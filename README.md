@@ -1,6 +1,6 @@
 # PowerBiDataVisualization
 
-## Some data visualization projects that I have created using power bi ##
+## Four different data visualization and analysis projects that I have made using [Microsoft power bi](https://powerbi.microsoft.com/en-us/) ##
 
 #### Project 1: A simple project to analyse the performance of a fictitious company. ####
 * Dataset:  [Kevin Cookie Company Financials.xlsx](https://github.com/MazenTarek7/PowerBiDataVisualization/files/9444020/Kevin.Cookie.Company.Financials.xlsx)
